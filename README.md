@@ -1,2 +1,6 @@
 # Collecting-Data-Using-API
-Collecting Data using API
+
+##Objectives:
+*   Collect job data from Jobs API
+*   Store the collected data into an excel spreadsheet.
+
